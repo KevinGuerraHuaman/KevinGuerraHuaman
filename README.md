@@ -1,7 +1,7 @@
 ### Hi there 👋<h2> I'm Kevin Guerra</h2>
 
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="360" />
 
 <h3> 👨🏻•💻 About Me </h3>
 
