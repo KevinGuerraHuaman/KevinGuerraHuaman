@@ -1,6 +1,8 @@
 ### Hi there 👋<h2> I'm Kevin Guerra Huamán</h2>
 
+<div align="center">
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="360" />
+</div>
 
 <h3> 👨🏻•💻 About Me </h3>
 
