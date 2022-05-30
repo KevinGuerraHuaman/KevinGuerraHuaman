@@ -1,19 +1,18 @@
-### Hi there 👋<h2> I'm Kevin Guerra</h2>
+### Hi there 👋<h2> I'm Kevin Guerra Huamán</h2>
 
-<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="360" />
 
 <h3> 👨🏻•💻 About Me </h3>
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🔭 &nbsp; Explore new technologies and develop hardware and software solutions.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+- 🎓 &nbsp; I studied Electronic Engineering at the Universidad Peruana de Ciencias Aplicadas.
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- 🌱 &nbsp; Interested in learning about Machine Learning, Deep Learning, IoT and technologies for deployment.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- ✍️ &nbsp; I make tutorials on Youtube about topics related to electronics and artificial intelligence, for example microcontrollers, sensors, deep learning, etc.
 
 
 
@@ -33,7 +32,7 @@
 
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign
 
--->
+
 
 
 
@@ -43,16 +42,5 @@
 
 <hr>
 
+-->
 
-
-
-
-<hr>
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<br>
-
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
-
-<hr>
