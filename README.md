@@ -94,30 +94,23 @@
 
 
 
-<!--
-<h3>🛠 Tech Stack</h3>
+## 🙋‍♂️ Connect with me:
 
-- 💻 &nbsp; Python | C++ | C | Matlab
+<p align="left">
+  
+  <a href="https://www.youtube.com/c/DevProTips"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://twitter.com/DenverCoder1"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://jonahlawrence.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white"></a>
+  <a href="https://dev.to/denvercoder1"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
+  <a href="https://ko-fi.com/jlawrence"><img alt="Ko-fi" title="By me a coffee" src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
+  
+</p>
 
-- 🌐 &nbsp; HTML | CSS | ReactJS
-
-
-
-- 🛢 &nbsp; MySQL | MongoDB
-
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
-
-
-
-
-
-<h3>🛠 To Learn</h3>
-
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
-
-<hr>
+<p align="left">
+  <a href="https://stackexchange.com/users/16082556/eyl327">
+    <img src="https://stackexchange.com/users/flair/16082556.png" width="208" height="58" alt="profile for DenverCoder1 on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for DenverCoder1 on Stack Exchange, a network of free, community-driven Q&amp;A sites">
+  </a>
+</p>
 
 -->
 
